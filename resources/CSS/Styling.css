@@ -1,0 +1,9 @@
+.fullScreenFrame > div {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    display: flex;
+	justify-content: center;
+}
